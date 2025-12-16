@@ -143,5 +143,5 @@ For questions or suggestions, please contact via GitHub Issues.
 
 ---
 
-*最后更新: 2025-12-16*
-*Last Updated: 2025-12-16*
+*文档版本: v1.0*
+*Document Version: v1.0*
